@@ -74,4 +74,4 @@ Gambar diatas merupakan Classification Report dari Model setelah dilakukan predi
 
 Gambar diatas merupakan hasil dari prediksi model terhadap harga diamonds.
 
-## Link Model: https://drive.google.com/drive/folders/163GVI8dRKvrgndXsXQUMcjzg8RJzWpHp?usp=sharing
+**Link Model: https://drive.google.com/drive/folders/163GVI8dRKvrgndXsXQUMcjzg8RJzWpHp?usp=sharing**
