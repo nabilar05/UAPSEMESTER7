@@ -33,7 +33,7 @@ Link Dataset: https://www.kaggle.com/code/karnikakapoor/diamond-price-prediction
 ## Random Forest
 **Preprocessing**
 
-Preprocessing dilakukan dengan menghapus data yang memiliki nilai kosong atau outlier yang tidak logis. Selain itu dengan mengubah data kategorikal menjadi numerik dan normalisasi data numerik.
+Preprocessing dilakukan dengan menghapus data yang memiliki nilai kosong atau outlier yang tidak logis. Selain itu dengan mengubah data kategorikal menjadi numerik dan normalisasi data numerik. Data dibagi menjadi data train 75% dan data test 25%.
 
 **Model**
 
@@ -52,7 +52,7 @@ Gambar diatas merupakan hasil dari prediksi model terhadap harga diamonds.
 ## Feedforward Neural Network (FFNN)
 **Preprocessing**
 
-Preprocessing dilakukan dengan menghapus data yang memiliki nilai kosong atau outlier yang tidak logis. Selain itu dengan mengubah data kategorikal menjadi numerik dan normalisasi data numerik.
+Preprocessing dilakukan dengan menghapus data yang memiliki nilai kosong atau outlier yang tidak logis. Selain itu dengan mengubah data kategorikal menjadi numerik dan normalisasi data numerik. Data dibagi menjadi data train 80% dan data test 20%.
 
 **Model**
 Feedforward Neural Network (FFNN) menggunakan Keras, yang dirancang untuk menyelesaikan masalah regresi (karena output layer memiliki 1 neuron tanpa fungsi aktivasi). 
