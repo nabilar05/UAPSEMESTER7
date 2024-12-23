@@ -17,7 +17,7 @@ Proyek ini bertujuan untuk memprediksi harga diamonds menggunakan algoritma Rand
 ![398048679-ace82954-b091-4cd6-a443-9d089397641b](https://github.com/user-attachments/assets/7bc8e33c-39eb-49c4-99cf-5cd55fded4f4)
 
 ## Overview Dataset
-Dataset yang digunakan adalah dataset "Diamond Price Prediction" yang diambil dari kaggle. Dataset ini memiliki atribut berikut:
+Dataset yang digunakan adalah dataset "Diamond Price Prediction" dengan total data 53940 yang diambil dari kaggle. Dataset ini memiliki atribut berikut:
 1. carat: Berat berlian.
 2. cut: Kualitas potongan (Fair, Good, Very Good, Premium, Ideal).
 3. color: Warna berlian (J hingga D, dengan D yang paling baik).
